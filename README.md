@@ -290,9 +290,9 @@ Distributed under the MIT License. Lihat `LICENSE` untuk informasi lebih lanjut.
 
 ## 📞 Kontak & Dukungan
 
-- **Project Link**: [https://github.com/username/tall-stack-chartjs-integration](https://github.com/username/tall-stack-chartjs-integration)
-- **Issues**: [https://github.com/username/tall-stack-chartjs-integration/issues](https://github.com/username/tall-stack-chartjs-integration/issues)
-- **Discussions**: [https://github.com/username/tall-stack-chartjs-integration/discussions](https://github.com/username/tall-stack-chartjs-integration/discussions)
+- **Project Link**: [https://github.com/ahmad-syaifuddin/tall-stack-chartjs-integration](https://github.com/ahmad-syaifuddin/tall-stack-chartjs-integration)
+- **Issues**: [https://github.com/ahmad-syaifuddin/tall-stack-chartjs-integration/issues](https://github.com/ahmad-syaifuddin/tall-stack-chartjs-integration/issues)
+- **Discussions**: [https://github.com/ahmad-syaifuddin/tall-stack-chartjs-integration/discussions](https://github.com/ahmad-syaifuddin/tall-stack-chartjs-integration/discussions)
 
 ---
 
