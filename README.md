@@ -257,7 +257,7 @@ Pendekatan ini juga efektif untuk library JavaScript kompleks lainnya:
 
 1. **Clone repository ini**
 ```bash
-git clone https://github.com/username/tall-stack-chartjs-integration.git
+git clone https://github.com/ahmad-syaifuddin/tall-stack-chartjs-integration.git
 ```
 
 2. **Install dependencies**
